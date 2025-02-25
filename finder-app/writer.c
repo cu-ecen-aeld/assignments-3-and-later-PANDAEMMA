@@ -35,5 +35,5 @@ int main(int argc, char *argv[]) {
     }
     fclose(writefile);
     closelog();
-    return 0
+    return 0;
 }
